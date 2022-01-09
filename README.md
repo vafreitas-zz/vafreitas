@@ -6,7 +6,8 @@
 - 🌱 I’m currently learning everything.
 - 👯 I'm looking to collaborate with other open source developers.
 - 🥅 2021 Goals: Contribute more to Open Source projects.
-  - [VFNetwork](https://github.com/vafreitas/VFNetwork)
+  - [VFNetwork](https://github.com/vafreitas/VFNetwork) - Protocol Oriented Networking Layer.
+  - [UICodeKit](https://github.com/vafreitas/UICodeKit) - Work in Progress.
   
 - ⚡ Fun fact: I love to code and learn other programming languages.
 
