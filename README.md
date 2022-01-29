@@ -24,7 +24,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Modularity with CocoaPods](https://medium.com/) - Soon!
+- [Modularity with CocoaPods](https://medium.com/@vitoralves59/modulariza%C3%A7%C3%A3o-ios-com-cocoapods-191a5ba1e694)
 <!-- BLOG-POST-LIST:END -->
 
 ---
